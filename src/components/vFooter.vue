@@ -11,7 +11,7 @@
         border-top
       "
     >
-      <p class="col-md-4 mb-0 text-light">© 2021 Company, Inc</p>
+      <p class="col-md-4 mb-0 text-light">© 2021 Company, Inc CORP</p>
 
       <a
         href="/"
